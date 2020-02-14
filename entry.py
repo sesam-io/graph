@@ -29,6 +29,6 @@ print(G.nodes())
 print("Edges of graph: ")
 print(G.edges())
 
-nx.draw(G)
+nx.draw(G,with_labels=True)
 plt.savefig("simple_path.png") # save as png
 plt.show() # display

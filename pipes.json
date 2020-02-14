@@ -427,21 +427,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:08:51.649680+00:00",
-            "last-run": "2020-02-10T12:08:51.659447+00:00",
-            "next-run": "2020-02-10T12:23:43.290090+00:00",
-            "last-message": "Completed OK in 0.01s.",
+            "last-started": "2020-02-13T12:16:25.489728+00:00",
+            "last-run": "2020-02-13T12:16:25.493531+00:00",
+            "next-run": "2020-02-13T12:31:17.133138+00:00",
+            "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.9766999999999999,
+            "average-process-time": 0.38029999999999997,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.097268+00:00",
+            "current-time": "2020-02-13T12:29:09.877303+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -865,21 +865,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T11:54:49.645565+00:00",
-            "last-run": "2020-02-10T11:54:49.654050+00:00",
-            "next-run": "2020-02-10T12:09:42.814738+00:00",
+            "last-started": "2020-02-13T12:22:36.447710+00:00",
+            "last-run": "2020-02-13T12:22:36.453083+00:00",
+            "next-run": "2020-02-13T12:37:29.613797+00:00",
             "last-message": "Completed OK in 0.01s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.8484999999999999,
+            "average-process-time": 0.5373,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.104483+00:00",
+            "current-time": "2020-02-13T12:29:09.877680+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -1250,21 +1250,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:06:41.373022+00:00",
-            "last-run": "2020-02-10T12:06:41.380550+00:00",
-            "next-run": "2020-02-10T12:21:53.261378+00:00",
-            "last-message": "Completed OK in 0.01s.",
+            "last-started": "2020-02-13T12:20:16.082554+00:00",
+            "last-run": "2020-02-13T12:20:16.086916+00:00",
+            "next-run": "2020-02-13T12:35:27.968520+00:00",
+            "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.5377142857142857,
+            "average-process-time": 0.31157142857142855,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.104966+00:00",
+            "current-time": "2020-02-13T12:29:09.878057+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -1750,21 +1750,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T11:55:49.785055+00:00",
-            "last-run": "2020-02-10T11:55:49.789324+00:00",
-            "next-run": "2020-02-10T12:11:08.884757+00:00",
+            "last-started": "2020-02-13T12:27:25.198286+00:00",
+            "last-run": "2020-02-13T12:27:25.202880+00:00",
+            "next-run": "2020-02-13T12:42:44.283974+00:00",
             "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.4269,
+            "average-process-time": 0.45940000000000003,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.105466+00:00",
+            "current-time": "2020-02-13T12:29:09.878852+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -1868,10 +1868,10 @@
                     "difi-postnummer": 0
                 }
             },
-            "last-started": "2020-02-10T12:08:25.595886+00:00",
-            "last-run": "2020-02-10T12:08:25.599439+00:00",
-            "next-run": "2020-02-10T12:08:54.526729+00:00",
-            "last-message": "Completed OK in 0.00s.",
+            "last-started": "2020-02-13T12:28:44.392133+00:00",
+            "last-run": "2020-02-13T12:28:44.400627+00:00",
+            "next-run": "2020-02-13T12:29:13.327618+00:00",
+            "last-message": "Completed OK in 0.01s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
@@ -1882,7 +1882,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.106034+00:00",
+            "current-time": "2020-02-13T12:29:09.879435+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -2276,10 +2276,10 @@
                 },
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:08:28.605607+00:00",
-            "last-run": "2020-02-10T12:08:28.608900+00:00",
-            "next-run": "2020-02-10T12:08:58.789948+00:00",
-            "last-message": "Completed OK in 0.00s.",
+            "last-started": "2020-02-13T12:28:46.403005+00:00",
+            "last-run": "2020-02-13T12:28:46.549331+00:00",
+            "next-run": "2020-02-13T12:29:16.730448+00:00",
+            "last-message": "Completed OK in 0.15s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
@@ -2290,7 +2290,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.106540+00:00",
+            "current-time": "2020-02-13T12:29:09.879910+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -2664,9 +2664,9 @@
                     "global-location": 0
                 }
             },
-            "last-started": "2020-02-10T12:08:51.655418+00:00",
-            "last-run": "2020-02-10T12:08:51.657503+00:00",
-            "next-run": "2020-02-10T12:09:21.217483+00:00",
+            "last-started": "2020-02-13T12:28:57.426014+00:00",
+            "last-run": "2020-02-13T12:28:57.429878+00:00",
+            "next-run": "2020-02-13T12:29:26.990061+00:00",
             "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
@@ -2678,7 +2678,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.107117+00:00",
+            "current-time": "2020-02-13T12:29:09.880404+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -2969,21 +2969,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:02:20.757823+00:00",
-            "last-run": "2020-02-10T12:02:20.760659+00:00",
-            "next-run": "2020-02-10T12:16:40.711500+00:00",
-            "last-message": "Completed OK in 0.00s.",
+            "last-started": "2020-02-13T12:26:21.011982+00:00",
+            "last-run": "2020-02-13T12:26:21.020168+00:00",
+            "next-run": "2020-02-13T12:40:40.971145+00:00",
+            "last-message": "Completed OK in 0.01s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.28359999999999996,
+            "average-process-time": 0.8186,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.107661+00:00",
+            "current-time": "2020-02-13T12:29:09.880850+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -3249,21 +3249,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:07:00.417542+00:00",
-            "last-run": "2020-02-10T12:07:00.421008+00:00",
-            "next-run": "2020-02-10T12:21:26.761736+00:00",
+            "last-started": "2020-02-13T12:22:43.471386+00:00",
+            "last-run": "2020-02-13T12:22:43.474851+00:00",
+            "next-run": "2020-02-13T12:37:09.815825+00:00",
             "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 0.3466,
+            "average-process-time": 0.3465,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.108241+00:00",
+            "current-time": "2020-02-13T12:29:09.881158+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -3454,9 +3454,9 @@
                 "source": 0,
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:08:29.611750+00:00",
-            "last-run": "2020-02-10T12:08:29.615352+00:00",
-            "next-run": "2020-02-10T12:08:59.869455+00:00",
+            "last-started": "2020-02-13T12:28:45.399386+00:00",
+            "last-run": "2020-02-13T12:28:45.402299+00:00",
+            "next-run": "2020-02-13T12:29:15.655356+00:00",
             "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
@@ -3468,7 +3468,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.108737+00:00",
+            "current-time": "2020-02-13T12:29:09.881527+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -3793,9 +3793,9 @@
                 },
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:08:30.613987+00:00",
-            "last-run": "2020-02-10T12:08:30.617529+00:00",
-            "next-run": "2020-02-10T12:09:01.418305+00:00",
+            "last-started": "2020-02-13T12:28:45.403621+00:00",
+            "last-run": "2020-02-13T12:28:45.407058+00:00",
+            "next-run": "2020-02-13T12:29:16.206071+00:00",
             "last-message": "Completed OK in 0.00s.",
             "last-traceback": null,
             "last-original-error-message": null,
@@ -3807,7 +3807,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.109230+00:00",
+            "current-time": "2020-02-13T12:29:09.881952+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4103,7 +4103,7 @@
             "supports-since": true,
             "state": null,
             "success": null,
-            "current-time": "2020-02-10T12:08:53.109639+00:00",
+            "current-time": "2020-02-13T12:29:09.882313+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4249,7 +4249,7 @@
             "supports-since": false,
             "state": null,
             "success": null,
-            "current-time": "2020-02-10T12:08:53.109974+00:00",
+            "current-time": "2020-02-13T12:29:09.882684+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4379,7 +4379,7 @@
             "supports-since": false,
             "state": null,
             "success": null,
-            "current-time": "2020-02-10T12:08:53.110416+00:00",
+            "current-time": "2020-02-13T12:29:09.882969+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4545,22 +4545,25 @@
             }
         },
         "runtime": {
-            "queues": {},
-            "last-started": "2020-02-10T12:00:45.532338+00:00",
-            "last-run": "2020-02-10T12:00:45.572955+00:00",
-            "next-run": "2020-02-10T12:16:12.573869+00:00",
-            "last-message": "Completed OK in 0.04s.",
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
+            "last-started": "2020-02-13T12:23:56.651401+00:00",
+            "last-run": "2020-02-13T12:23:56.702159+00:00",
+            "next-run": "2020-02-13T12:39:23.702858+00:00",
+            "last-message": "Completed OK in 0.05s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 13.539,
+            "average-process-time": 16.919333333333334,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.110911+00:00",
+            "current-time": "2020-02-13T12:29:09.883293+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4735,22 +4738,25 @@
             }
         },
         "runtime": {
-            "queues": {},
-            "last-started": "2020-02-10T12:00:00.408590+00:00",
-            "last-run": "2020-02-10T12:00:01.429412+00:00",
-            "next-run": "2020-02-10T13:00:00+00:00",
-            "last-message": "Completed OK in 1.02s.",
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
+            "last-started": "2020-02-13T12:00:00.044243+00:00",
+            "last-run": "2020-02-13T12:00:01.035448+00:00",
+            "next-run": "2020-02-13T13:00:00+00:00",
+            "last-message": "Completed OK in 0.99s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 1.8185,
+            "average-process-time": 82.60041666666667,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.111321+00:00",
+            "current-time": "2020-02-13T12:29:09.883592+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -4774,7 +4780,7 @@
             "continuation": "none",
             "version": null
         },
-        "storage": 916036
+        "storage": 1068184
     },
     {
         "_id": "restarea-static",
@@ -4921,22 +4927,25 @@
             }
         },
         "runtime": {
-            "queues": {},
-            "last-started": "2020-02-10T12:07:51.521851+00:00",
-            "last-run": "2020-02-10T12:07:53.275188+00:00",
-            "next-run": "2020-02-10T12:22:41.216195+00:00",
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
+            "last-started": "2020-02-13T12:21:51.295122+00:00",
+            "last-run": "2020-02-13T12:21:53.045350+00:00",
+            "next-run": "2020-02-13T12:36:40.986148+00:00",
             "last-message": "Completed OK in 1.75s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 68.57609090909091,
+            "average-process-time": 68.29345454545455,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.111769+00:00",
+            "current-time": "2020-02-13T12:29:09.883963+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5050,7 +5059,10 @@
             }
         },
         "runtime": {
-            "queues": {},
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
             "last-started": "",
             "last-run": "",
             "next-run": "2020-02-10T03:18:56.152129+00:00",
@@ -5065,7 +5077,7 @@
             "supports-since": false,
             "state": "disabled",
             "success": null,
-            "current-time": "2020-02-10T12:08:53.112107+00:00",
+            "current-time": "2020-02-13T12:29:09.884387+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5203,7 +5215,10 @@
             }
         },
         "runtime": {
-            "queues": {},
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
             "last-started": "2019-12-02T00:00:00.751838+00:00",
             "last-run": "2019-12-02T00:00:00.884212+00:00",
             "next-run": "2020-02-11T00:00:00+00:00",
@@ -5218,7 +5233,7 @@
             "supports-since": true,
             "state": "disabled",
             "success": false,
-            "current-time": "2020-02-10T12:08:53.112449+00:00",
+            "current-time": "2020-02-13T12:29:09.884708+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5359,10 +5374,10 @@
                 },
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:08:25.601259+00:00",
-            "last-run": "2020-02-10T12:08:25.604558+00:00",
-            "next-run": "2020-02-10T12:08:54.300957+00:00",
-            "last-message": "Completed OK in 0.00s.",
+            "last-started": "2020-02-13T12:28:44.392750+00:00",
+            "last-run": "2020-02-13T12:28:44.399788+00:00",
+            "next-run": "2020-02-13T12:29:13.097675+00:00",
+            "last-message": "Completed OK in 0.01s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
@@ -5373,7 +5388,7 @@
             "supports-since": true,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.114793+00:00",
+            "current-time": "2020-02-13T12:29:09.886929+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5384,7 +5399,7 @@
             },
             "metrics": {},
             "execution-dataset": "system:pump:merge-restarea",
-            "last-seen": 24816,
+            "last-seen": 25678,
             "supported-operations": [
                 "start",
                 "stop",
@@ -5400,7 +5415,7 @@
             "continuation": "chronological",
             "version": null
         },
-        "storage": 671470
+        "storage": 949109
     },
     {
         "_id": "restarea-csv",
@@ -5492,7 +5507,7 @@
             "supports-since": true,
             "state": null,
             "success": null,
-            "current-time": "2020-02-10T12:08:53.115301+00:00",
+            "current-time": "2020-02-13T12:29:09.887426+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5599,14 +5614,17 @@
             }
         },
         "runtime": {
-            "queues": {},
-            "last-started": "2020-02-10T12:00:19.666352+00:00",
-            "last-run": "2020-02-10T12:00:19.708188+00:00",
-            "next-run": "2020-02-10T12:14:35.880699+00:00",
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
+            "last-started": "2020-02-13T12:23:21.738094+00:00",
+            "last-run": "2020-02-13T12:23:21.781062+00:00",
+            "next-run": "2020-02-13T12:37:37.954609+00:00",
             "last-message": "An error occurred while running task 'pump:salesforce-test': \nToo many read-retries when reading from source 'source:salesforce-test'!",
-            "last-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/datasynctask.py\", line 1111, in doSync\n    entity_batch, offset_info = pipe_reader.nextBatch()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 426, in nextBatch\n    entity_batch, offset_info = self._nextBatchWithNoWorkers()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 636, in _nextBatchWithNoWorkers\n    entity_batch, offset_info = self._nextBatchSourceEntities()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 696, in _nextBatchSourceEntities\n    entity_batch = next(self._entity_batch_iter, None)\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 179, in getEntityBatches\n    exception_info=get_exception_info())\nlake.task.exceptions.DatasyncReadException: Requests error in 'http://172.19.0.5:8080/Contact'\n\nThe above exception was the direct cause of the following exception:\nTra",
-            "last-original-error-message": "requests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused',))\n",
-            "last-original-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f639acb37b8>: Failed to establish a new connection: [Errno 111] Connection refused',))",
+            "last-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/datasynctask.py\", line 1111, in doSync\n    entity_batch, offset_info = pipe_reader.nextBatch()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 426, in nextBatch\n    entity_batch, offset_info = self._nextBatchWithNoWorkers()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 636, in _nextBatchWithNoWorkers\n    entity_batch, offset_info = self._nextBatchSourceEntities()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 696, in _nextBatchSourceEntities\n    entity_batch = next(self._entity_batch_iter, None)\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 179, in getEntityBatches\n    exception_info=get_exception_info())\nlake.task.exceptions.DatasyncReadException: Requests error in 'http://172.19.0.5:8080/Contact'\n\nThe above exception was the direct cause of the following exception:\nTra",
+            "last-original-error-message": "requests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))\n",
+            "last-original-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f638c1a7ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))",
             "average-process-time": null,
             "is-running": false,
             "is-disabled": false,
@@ -5614,7 +5632,7 @@
             "supports-since": false,
             "state": "stopped",
             "success": false,
-            "current-time": "2020-02-10T12:08:53.115819+00:00",
+            "current-time": "2020-02-13T12:29:09.887736+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5638,7 +5656,7 @@
             "continuation": "none",
             "version": null
         },
-        "storage": 10200804
+        "storage": 10175940
     },
     {
         "_id": "salesforce-test2",
@@ -5725,14 +5743,17 @@
             }
         },
         "runtime": {
-            "queues": {},
-            "last-started": "2020-02-10T12:04:58.297023+00:00",
-            "last-run": "2020-02-10T12:04:58.341370+00:00",
-            "next-run": "2020-02-10T12:19:44.124402+00:00",
+            "queues": {
+                "source": null,
+                "dependencies": {}
+            },
+            "last-started": "2020-02-13T12:27:41.413004+00:00",
+            "last-run": "2020-02-13T12:27:41.452785+00:00",
+            "next-run": "2020-02-13T12:42:27.236836+00:00",
             "last-message": "An error occurred while running task 'pump:salesforce-test2': \nToo many read-retries when reading from source 'source:salesforce-test2'!",
-            "last-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/datasynctask.py\", line 1111, in doSync\n    entity_batch, offset_info = pipe_reader.nextBatch()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 426, in nextBatch\n    entity_batch, offset_info = self._nextBatchWithNoWorkers()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 636, in _nextBatchWithNoWorkers\n    entity_batch, offset_info = self._nextBatchSourceEntities()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 696, in _nextBatchSourceEntities\n    entity_batch = next(self._entity_batch_iter, None)\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 179, in getEntityBatches\n    exception_info=get_exception_info())\nlake.task.exceptions.DatasyncReadException: Requests error in 'http://172.19.0.5:8080/Contact'\n\nThe above exception was the direct cause of the following exception:\nTra",
-            "last-original-error-message": "requests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused',))\n",
-            "last-original-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0a5b780>: Failed to establish a new connection: [Errno 111] Connection refused',))",
+            "last-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/datasynctask.py\", line 1111, in doSync\n    entity_batch, offset_info = pipe_reader.nextBatch()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 426, in nextBatch\n    entity_batch, offset_info = self._nextBatchWithNoWorkers()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 636, in _nextBatchWithNoWorkers\n    entity_batch, offset_info = self._nextBatchSourceEntities()\n  File \"/usr/local/lib/python3.6/dist-packages/lake/task/datasynctask/pipe_reader.py\", line 696, in _nextBatchSourceEntities\n    entity_batch = next(self._entity_batch_iter, None)\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 179, in getEntityBatches\n    exception_info=get_exception_info())\nlake.task.exceptions.DatasyncReadException: Requests error in 'http://172.19.0.5:8080/Contact'\n\nThe above exception was the direct cause of the following exception:\nTra",
+            "last-original-error-message": "requests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused',))\n",
+            "last-original-traceback": "Traceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 159, in _new_conn\n    (self._dns_host, self.port), self.timeout, **extra_kw)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 80, in create_connection\n    raise err\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/connection.py\", line 70, in create_connection\n    sock.connect(sa)\nConnectionRefusedError: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 600, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 354, in _make_request\n    conn.request(method, url, **httplib_request_kw)\n  File \"/usr/lib/python3.6/http/client.py\", line 1254, in request\n    self._send_request(method, url, body, headers, encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1300, in _send_request\n    self.endheaders(body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1249, in endheaders\n    self._send_output(message_body, encode_chunked=encode_chunked)\n  File \"/usr/lib/python3.6/http/client.py\", line 1036, in _send_output\n    self.send(msg)\n  File \"/usr/lib/python3.6/http/client.py\", line 974, in send\n    self.connect()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 181, in connect\n    conn = self._new_conn()\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connection.py\", line 168, in _new_conn\n    self, \"Failed to establish a new connection: %s\" % e)\nurllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 449, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/connectionpool.py\", line 638, in urlopen\n    _stacktrace=sys.exc_info()[2])\n  File \"/usr/local/lib/python3.6/dist-packages/urllib3/util/retry.py\", line 399, in increment\n    raise MaxRetryError(_pool, url, error or ResponseError(cause))\nurllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused',))\n\nDuring handling of the above exception, another exception occurred:\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.6/dist-packages/lake/sources/json.py\", line 158, in getEntityBatches\n    headers=request_headers) as response:\n  File \"/usr/local/lib/python3.6/dist-packages/lake/systems/url.py\", line 331, in getResponse\n    verify=self.verify_ssl, timeout=self.timeout)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 546, in get\n    return self.request('GET', url, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 533, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/sessions.py\", line 646, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.6/dist-packages/requests/adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='172.19.0.5', port=8080): Max retries exceeded with url: /Contact (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63a0bae588>: Failed to establish a new connection: [Errno 111] Connection refused',))",
             "average-process-time": null,
             "is-running": false,
             "is-disabled": false,
@@ -5740,7 +5761,7 @@
             "supports-since": false,
             "state": "stopped",
             "success": false,
-            "current-time": "2020-02-10T12:08:53.116252+00:00",
+            "current-time": "2020-02-13T12:29:09.888212+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -5764,7 +5785,7 @@
             "continuation": "none",
             "version": null
         },
-        "storage": 10397351
+        "storage": 10370824
     },
     {
         "_id": "embedded-deadletters",
@@ -6451,7 +6472,7 @@
             "supports-since": false,
             "state": "disabled",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.116595+00:00",
+            "current-time": "2020-02-13T12:29:09.888558+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -6638,21 +6659,21 @@
                 "source": {},
                 "dependencies": {}
             },
-            "last-started": "2020-02-10T12:02:48.817747+00:00",
-            "last-run": "2020-02-10T12:02:48.821350+00:00",
-            "next-run": "2020-02-10T12:17:54.132026+00:00",
-            "last-message": "Completed OK in 0.00s.",
+            "last-started": "2020-02-13T12:15:48.395936+00:00",
+            "last-run": "2020-02-13T12:15:48.401833+00:00",
+            "next-run": "2020-02-13T12:30:53.713350+00:00",
+            "last-message": "Completed OK in 0.01s.",
             "last-traceback": null,
             "last-original-error-message": null,
             "last-original-traceback": null,
-            "average-process-time": 1.201,
+            "average-process-time": 1.9656666666666667,
             "is-running": false,
             "is-disabled": false,
             "disable-set-last-seen": false,
             "supports-since": false,
             "state": "finished",
             "success": true,
-            "current-time": "2020-02-10T12:08:53.117125+00:00",
+            "current-time": "2020-02-13T12:29:09.888855+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -6768,7 +6789,7 @@
             "supports-since": true,
             "state": "disabled",
             "success": null,
-            "current-time": "2020-02-10T12:08:53.117455+00:00",
+            "current-time": "2020-02-13T12:29:09.889281+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {
@@ -6879,7 +6900,7 @@
             "supports-since": true,
             "state": "disabled",
             "success": null,
-            "current-time": "2020-02-10T12:08:53.117775+00:00",
+            "current-time": "2020-02-13T12:29:09.889550+00:00",
             "is-valid-config": true,
             "config-errors": [],
             "progress": {

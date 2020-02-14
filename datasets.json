@@ -1,0 +1,1348 @@
+[
+    {
+        "_id": "system:pump:system:update_node",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 495,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "archive",
+        "runtime": {
+            "last-modified": "2020-02-13T12:00:00.998462Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 13,
+            "count-index-deleted": 1,
+            "count-log-exists": 1164,
+            "count-log-deleted": 1,
+            "count-offset": 26172,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 212774
+    },
+    {
+        "_id": "system:pump:restarea-smtp",
+        "runtime": {
+            "last-modified": "2020-02-10T11:46:48.672314Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 1,
+            "count-index-deleted": 0,
+            "count-log-exists": 1,
+            "count-log-deleted": 0,
+            "count-offset": 2886,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 1785
+    },
+    {
+        "_id": "elephant-employee",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "user"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "max-crm-person",
+        "runtime": {
+            "last-modified": "2019-10-24T11:22:47.347563Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 20,
+            "count-log-deleted": 0,
+            "count-offset": 29,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 2571
+    },
+    {
+        "_id": "general-restArea",
+        "runtime": {
+            "last-modified": "2019-11-08T13:42:20.106001Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 24,
+            "count-index-deleted": 12,
+            "count-log-exists": 72,
+            "count-log-deleted": 12,
+            "count-offset": 72,
+            "populated": true,
+            "initial-offset": 23,
+            "origin": "user"
+        },
+        "storage": 16287
+    },
+    {
+        "_id": "person-crm",
+        "runtime": {
+            "last-modified": "2019-10-24T07:42:07.573643Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 14,
+            "count-index-deleted": 0,
+            "count-log-exists": 27,
+            "count-log-deleted": 0,
+            "count-offset": 26,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 4940
+    },
+    {
+        "_id": "salesforce-consent",
+        "runtime": {
+            "last-modified": "2019-10-24T07:50:29.350316Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 2339
+    },
+    {
+        "_id": "salesforce-userprofile",
+        "runtime": {
+            "last-modified": "2019-10-24T07:40:18.441146Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 2478
+    },
+    {
+        "_id": "system:config",
+        "runtime": {
+            "last-modified": "2020-01-10T13:21:46.245458Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 38,
+            "count-index-deleted": 2,
+            "count-log-exists": 244,
+            "count-log-deleted": 2,
+            "count-offset": 243,
+            "populated": true,
+            "initial-offset": 10,
+            "origin": "system"
+        },
+        "storage": 185484
+    },
+    {
+        "_id": "system:pump:global-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:21:42.459538Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 19,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2220
+    },
+    {
+        "_id": "system:pump:salesforce-test",
+        "runtime": {
+            "last-modified": "2020-02-13T12:23:21.781758Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2880,
+            "count-index-deleted": 0,
+            "count-log-exists": 8634,
+            "count-log-deleted": 0,
+            "count-offset": 26208,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 10175940
+    },
+    {
+        "_id": "system:pump:azure-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:36:43.524913Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 3191
+    },
+    {
+        "_id": "system:pump:max-person",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 3,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:system:initialize_node",
+        "runtime": {
+            "last-modified": "2020-02-10T02:28:56.187986Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 8,
+            "count-log-deleted": 0,
+            "count-offset": 33,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 5844
+    },
+    {
+        "_id": "system:pump:embedded-deadletters2",
+        "runtime": {
+            "last-modified": "2020-02-10T02:44:01.734585Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 71,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 1987
+    },
+    {
+        "_id": "system:pump:smtp-buffer",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 79,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:truc",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 3,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:restarea-static",
+        "runtime": {
+            "last-modified": "2020-01-29T16:34:53.877067Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 266,
+            "count-index-deleted": 0,
+            "count-log-exists": 797,
+            "count-log-deleted": 0,
+            "count-offset": 903,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 890784
+    },
+    {
+        "_id": "salesforce-test",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 0
+    },
+    {
+        "_id": "max-global-person",
+        "runtime": {
+            "last-modified": "2019-10-25T10:51:26.984946Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 32,
+            "count-index-deleted": 0,
+            "count-log-exists": 64,
+            "count-log-deleted": 0,
+            "count-offset": 95,
+            "populated": true,
+            "initial-offset": 31,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 13966
+    },
+    {
+        "_id": "embedded-deadletters",
+        "runtime": {
+            "last-modified": "2019-12-13T13:39:22.546886Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 3,
+            "count-index-deleted": 0,
+            "count-log-exists": 3,
+            "count-log-deleted": 0,
+            "count-offset": 2,
+            "populated": true,
+            "initial-offset": 2,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3871
+    },
+    {
+        "_id": "azure-person",
+        "runtime": {
+            "last-modified": "2019-10-24T07:39:41.882241Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3320
+    },
+    {
+        "_id": "global-location",
+        "runtime": {
+            "last-modified": "2019-10-24T07:41:49.533205Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 14,
+            "count-index-deleted": 0,
+            "count-log-exists": 14,
+            "count-log-deleted": 0,
+            "count-offset": 13,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3952
+    },
+    {
+        "_id": "restarea-smtp",
+        "runtime": {
+            "last-modified": "2020-01-10T14:09:30.128311Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 4,
+            "count-index-deleted": 0,
+            "count-log-exists": 4,
+            "count-log-deleted": 0,
+            "count-offset": 3,
+            "populated": true,
+            "initial-offset": 2,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3147
+    },
+    {
+        "_id": "system:jwt-revocation",
+        "runtime": {
+            "last-modified": "2019-12-10T23:30:15.737313Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 5,
+            "count-index-deleted": 0,
+            "count-log-exists": 12,
+            "count-log-deleted": 0,
+            "count-offset": 11,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "system",
+            "has-circuit-breaker": false
+        },
+        "storage": 12228
+    },
+    {
+        "_id": "system:pump:importorders-ms",
+        "runtime": {
+            "last-modified": "2019-12-02T02:41:49.436674Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2099
+    },
+    {
+        "_id": "system:pump:system:download-pipe-settings",
+        "runtime": {
+            "last-modified": "2020-01-13T04:02:31.622157Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 30,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2147
+    },
+    {
+        "_id": "system:pump:salesforce-test2",
+        "runtime": {
+            "last-modified": "2020-02-13T12:27:41.453543Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2929,
+            "count-index-deleted": 0,
+            "count-log-exists": 8781,
+            "count-log-deleted": 0,
+            "count-offset": 24944,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 10370824
+    },
+    {
+        "_id": "system:pump:crm-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:36:35.491142Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 3154
+    },
+    {
+        "_id": "system:pump:merge-restarea",
+        "runtime": {
+            "last-modified": "2020-02-13T12:00:38.163052Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2616,
+            "count-log-deleted": 0,
+            "count-offset": 9003,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 310171
+    },
+    {
+        "_id": "system:pump:system:put_access_control_lists",
+        "runtime": {
+            "last-modified": "2020-01-08T09:03:26.079618Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 65,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2071
+    },
+    {
+        "_id": "system:pump:firebase-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:35:54.384461Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 3104
+    },
+    {
+        "_id": "system:pump:system:create_internal_components",
+        "runtime": {
+            "last-modified": "2020-02-10T02:28:56.296482Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 16,
+            "count-log-deleted": 0,
+            "count-offset": 75,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 6747
+    },
+    {
+        "_id": "embedded-deadletters2",
+        "runtime": {
+            "last-modified": "2020-01-10T14:20:25.168041Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 4,
+            "count-index-deleted": 1,
+            "count-log-exists": 5,
+            "count-log-deleted": 1,
+            "count-offset": 4,
+            "populated": true,
+            "initial-offset": 2,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3969
+    },
+    {
+        "_id": "salesforce-test2",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 0
+    },
+    {
+        "_id": "crm-person",
+        "runtime": {
+            "last-modified": "2019-10-24T07:38:04.697565Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 4285
+    },
+    {
+        "_id": "global-person",
+        "runtime": {
+            "last-modified": "2019-10-24T07:50:37.376882Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 22,
+            "count-index-deleted": 0,
+            "count-log-exists": 37,
+            "count-log-deleted": 0,
+            "count-offset": 49,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 12933
+    },
+    {
+        "_id": "restarea-static",
+        "runtime": {
+            "last-modified": "2019-11-06T12:25:02.750991Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 11,
+            "count-index-deleted": 0,
+            "count-log-exists": 11,
+            "count-log-deleted": 0,
+            "count-offset": 10,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3742
+    },
+    {
+        "_id": "system:access_control_lists",
+        "runtime": {
+            "last-modified": "2020-01-08T09:03:26.075108Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 32,
+            "count-index-deleted": 1,
+            "count-log-exists": 33,
+            "count-log-deleted": 1,
+            "count-offset": 32,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 23218
+    },
+    {
+        "_id": "system:pipe-settings",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": true,
+            "initial-offset": null,
+            "origin": "system",
+            "has-circuit-breaker": false
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:salesforce-bulk-unknown",
+        "runtime": {
+            "last-modified": "2019-12-02T07:48:36.261494Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 4,
+            "count-index-deleted": 0,
+            "count-log-exists": 4,
+            "count-log-deleted": 0,
+            "count-offset": 72,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 6828
+    },
+    {
+        "_id": "system:pump:system:download-subscription-settings",
+        "runtime": {
+            "last-modified": "2020-01-13T04:02:31.633581Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 10,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2208
+    },
+    {
+        "_id": "system:pump:max-crm-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:21:41.441521Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 20,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2085
+    },
+    {
+        "_id": "system:pump:salesforce-unknown",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 2052,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:difi-postnummer",
+        "runtime": {
+            "last-modified": "2019-11-25T02:36:11.432529Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2499
+    },
+    {
+        "_id": "system:pump:system:download-jwt-revocation",
+        "runtime": {
+            "last-modified": "2020-02-11T21:05:40.624861Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 11,
+            "count-index-deleted": 0,
+            "count-log-exists": 40,
+            "count-log-deleted": 0,
+            "count-offset": 433,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 28588
+    },
+    {
+        "_id": "system:pump:person-crm",
+        "runtime": {
+            "last-modified": "2019-11-25T02:21:40.437472Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 19,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2085
+    },
+    {
+        "_id": "system:pump:system:put_config",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": 495,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:global-location",
+        "runtime": {
+            "last-modified": "2019-11-25T02:21:40.435448Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 7,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2086
+    },
+    {
+        "_id": "system:pump:system:download-available-roles",
+        "runtime": {
+            "last-modified": "2020-01-13T04:02:31.647332Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 29,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2170
+    },
+    {
+        "_id": "merge-restarea",
+        "runtime": {
+            "last-modified": "2020-02-13T12:00:09.083775Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 13,
+            "count-index-deleted": 1,
+            "count-log-exists": 1965,
+            "count-log-deleted": 1,
+            "count-offset": 25667,
+            "populated": true,
+            "initial-offset": 12,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 632043
+    },
+    {
+        "_id": "firebase-person",
+        "runtime": {
+            "last-modified": "2019-10-24T07:40:05.891339Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3355
+    },
+    {
+        "_id": "salesforce-bulk-unknown",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 0
+    },
+    {
+        "_id": "difi-postnummer",
+        "runtime": {
+            "last-modified": "2019-10-24T07:41:35.542346Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 14,
+            "count-index-deleted": 0,
+            "count-log-exists": 14,
+            "count-log-deleted": 0,
+            "count-offset": 13,
+            "populated": true,
+            "initial-offset": 13,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 3847
+    },
+    {
+        "_id": "importorders-ms",
+        "runtime": {
+            "last-modified": "2019-11-01T13:48:50.482267Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 3,
+            "count-index-deleted": 0,
+            "count-log-exists": 3,
+            "count-log-deleted": 0,
+            "count-offset": 2,
+            "populated": true,
+            "initial-offset": 2,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 1728
+    },
+    {
+        "_id": "salesforce-unknown",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "user",
+            "has-circuit-breaker": false
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:available-roles",
+        "runtime": {
+            "last-modified": "2019-10-10T13:59:15.915255Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 10,
+            "count-index-deleted": 0,
+            "count-log-exists": 10,
+            "count-log-deleted": 0,
+            "count-offset": 9,
+            "populated": true,
+            "initial-offset": 9,
+            "origin": "system",
+            "has-circuit-breaker": false
+        },
+        "storage": 2972
+    },
+    {
+        "_id": "system:pump:archive",
+        "runtime": {
+            "last-modified": "2020-02-13T12:00:01.036661Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 73,
+            "count-index-deleted": 0,
+            "count-log-exists": 1516,
+            "count-log-deleted": 0,
+            "count-offset": 4918,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 855410
+    },
+    {
+        "_id": "system:pump:salesforce-consent",
+        "runtime": {
+            "last-modified": "2019-11-25T02:36:52.541965Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2418
+    },
+    {
+        "_id": "system:subscription-settings",
+        "runtime": {
+            "last-modified": "2019-11-11T03:43:37.75398Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 1,
+            "count-index-deleted": 0,
+            "count-log-exists": 1,
+            "count-log-deleted": 0,
+            "count-offset": 0,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system",
+            "has-circuit-breaker": false
+        },
+        "storage": 2121
+    },
+    {
+        "_id": "system:pump:system:download-updated-license",
+        "runtime": {
+            "last-modified": "2020-01-13T04:02:31.63737Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 27,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2204
+    },
+    {
+        "_id": "system:pump:max-global-person",
+        "runtime": {
+            "last-modified": "2019-11-25T02:21:41.447368Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 18,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2199
+    },
+    {
+        "_id": "system:shareable_links",
+        "runtime": {
+            "last-modified": null,
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 0,
+            "count-index-deleted": 0,
+            "count-log-exists": 0,
+            "count-log-deleted": 0,
+            "count-offset": null,
+            "populated": false,
+            "initial-offset": null,
+            "origin": "system"
+        },
+        "storage": 0
+    },
+    {
+        "_id": "system:pump:salesforce-userprofile",
+        "runtime": {
+            "last-modified": "2019-11-25T02:35:27.317689Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 2,
+            "count-index-deleted": 0,
+            "count-log-exists": 2,
+            "count-log-deleted": 0,
+            "count-offset": 5,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 2584
+    },
+    {
+        "_id": "system:pump:embedded-deadletters",
+        "runtime": {
+            "last-modified": "2019-12-13T15:37:35.094406Z",
+            "queues": {
+                "size": 0,
+                "index": 0,
+                "populated": true
+            },
+            "count-index-exists": 3,
+            "count-index-deleted": 0,
+            "count-log-exists": 3,
+            "count-log-deleted": 0,
+            "count-offset": 18,
+            "populated": true,
+            "initial-offset": 0,
+            "origin": "system"
+        },
+        "storage": 5407
+    }
+]
